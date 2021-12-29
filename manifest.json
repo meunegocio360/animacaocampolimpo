@@ -1,6 +1,7 @@
 {
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "name": "Animacão - Campo Limpo - Tour Virtual 360°",
+ "start_url": "index.htm",
  "description": "Estr. de Itapecerica, 2541 - Vila Maracana, São Paulo - SP",
  "display": "fullscreen",
  "icons": [
@@ -40,6 +41,5 @@
    "src": "misc/icon16.png"
   }
  ],
- "start_url": "index.htm",
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }
